@@ -2,9 +2,11 @@
 # Supervised Learning
 ## Project: Finding Donors for CharityML
 
+Done using Python 3
+
 ### Install
 
-This project requires **Python 2.7** and the following Python libraries installed:
+This project requires **Python 3** and the following Python libraries installed:
 
 - [NumPy](http://www.numpy.org/)
 - [Pandas](http://pandas.pydata.org)
